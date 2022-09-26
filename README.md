@@ -18,7 +18,7 @@
 # Geeksforgeeks  Auto Dark Night mode
 
 This ViolentMonkey script was made with the purpose to let firefox users with
-disabled cookies to take care of their eyes.
+disabled cookies take care of their eyes.
 
 Geeksforgeeks theme settings are saved in cookies and not in the dark theme API
 
